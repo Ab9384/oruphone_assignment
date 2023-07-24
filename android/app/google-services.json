@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "700588667893",
+    "project_id": "bclandloan",
+    "storage_bucket": "bclandloan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700588667893:android:ed81a994528f938f3926bc",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700588667893-lqvk4gcgc3da8c8pda0hrderhpbcbgg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOiVx5GOS1fG7jSmizCc0BNOCDW_tJp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700588667893-lqvk4gcgc3da8c8pda0hrderhpbcbgg8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700588667893-30pqgpckgf6m4qoecrkl786iruo8b4fh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bcland"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700588667893:android:64a9a9a4238944593926bc",
+        "android_client_info": {
+          "package_name": "com.example.bcland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700588667893-jvjced214f11ksnpunb7skqp1rl4jotk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bcland",
+            "certificate_hash": "1f7ef59b91d3402bda3cb237bc690b6dda65b096"
+          }
+        },
+        {
+          "client_id": "700588667893-lqvk4gcgc3da8c8pda0hrderhpbcbgg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOiVx5GOS1fG7jSmizCc0BNOCDW_tJp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700588667893-lqvk4gcgc3da8c8pda0hrderhpbcbgg8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700588667893-30pqgpckgf6m4qoecrkl786iruo8b4fh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bcland"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
